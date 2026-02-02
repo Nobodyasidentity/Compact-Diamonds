@@ -1,0 +1,32 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "building",
+  "key": {
+    "#": "minecraft:diamond_block"
+  },
+  "pattern": [
+    "###",
+    "###",
+    "###"
+  ],
+  "result": {
+    "components": {
+      "minecraft:enchantment_glint_override": true,
+      "minecraft:item_model": "minecraft:diamond_block",
+      "minecraft:item_name": {
+        "translate":"block.minecraft.diamond_block.compact",
+        "fallback": "Compact Block of Diamond",
+        "italic": false
+      },
+      "lore":[
+        {
+          "translate": "itemGroup.buildingBlocks",
+          "color": "blue",
+          "italic": false
+        }
+      ]
+    },
+    "count": 1,
+    "id": "minecraft:test_instance_block"
+  }
+}
