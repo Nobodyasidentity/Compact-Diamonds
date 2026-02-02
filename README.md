@@ -10,8 +10,8 @@ Are you tired of carrying so many diamonds?_
 **Compact Diamonds** is a simple yet very useful Data Pack that adds a new item called "Compact Block of Diamond", crafted with 9 Blocks of Diamond and easily uncrafted in the inventory crafting menu.  
   
 Tho the Compact Block of Diamond can not be placed down it can still easily be carried around in **stacks of 64** in a shulker.  
-### One Compact Block of Diamond is the equivalent to 81 diamonds.
+### One Compact Block of Diamond is the equivalent to _81 diamonds_.
 
 
 ## Dev Info:
-> Compact Block of Diamond can be translated using the key `block.minecraft.diamond_block.compact`, fallback is `Compact Block of Diamond`.
+> Compact Block of Diamond can be translated using the key `block.minecraft.diamond_block.compact`, fallback is "`Compact Block of Diamond`".
