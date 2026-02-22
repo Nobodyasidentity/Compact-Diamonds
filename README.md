@@ -1,4 +1,4 @@
-# Compact-Diamonds  
+# [Compact-Diamonds](https://modrinth.com/datapack/compact-diamonds)  
 > No need to carry too many shulkers because you happen to be too rich. Just pack them together into a Compact Block of Diamond.  
 ![icon](https://raw.githubusercontent.com/Nobodyasidentity/Compact-Diamonds/refs/heads/main/pack.png)
   
