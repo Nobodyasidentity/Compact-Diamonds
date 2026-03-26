@@ -14,4 +14,5 @@ Tho the **Compact Block of Diamond** can not be placed down it can still easily 
 
 
 ## Dev Info:
-> Compact Block of Diamond can be translated using the key `block.minecraft.diamond_block.compact`, fallback is "`Compact Block of Diamond`".
+> Compact Block of Diamond can be translated using the key `block.minecraft.diamond_block.compact`, fallback is "`Compact Block of Diamond`".<br>
+> I'm currently working on on making translations for this datapack, I'd love some help.
