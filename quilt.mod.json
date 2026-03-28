@@ -3,7 +3,7 @@
   "quilt_loader": {
     "group": "com.modrinth",
     "id": "compact_diamonds",
-    "version": "0.1",
+    "version": "0.1.1",
     "metadata": {
       "name": "Compact Diamonds",
       "description": "No need to carry too many shulkers because you happen to be too rich. Just pack them together into a Compact Block of Diamond.",
