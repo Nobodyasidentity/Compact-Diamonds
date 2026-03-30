@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "id": "compact_diamonds",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "name": "Compact Diamonds",
   "description": "No need to carry too many shulkers because you happen to be too rich. Just pack them together into a Compact Block of Diamond.",
   "license": "LicenseRef-Datapack",
