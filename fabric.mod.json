@@ -12,5 +12,12 @@
   "authors": [
     "Nobodyasidentity"
   ],
-  "icon": "pack.png"
+  "icon": "pack.png",
+  "custom": {
+    "modmenu": {
+      "links": {
+        "modmenu.modrinth": "https://modrinth.com/datapack/compact-diamonds"
+      }
+    }
+  }
 }

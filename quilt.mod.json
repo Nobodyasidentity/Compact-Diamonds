@@ -20,5 +20,10 @@
         "unless": "fabric-resource-loader-v0"
       }
     ]
+  },
+  "modmenu": {
+    "links": {
+      "modmenu.modrinth": "https://modrinth.com/datapack/compact-diamonds"
+    }
   }
 }
