@@ -12,7 +12,10 @@ Are you tired of carrying so many diamonds?_
 Tho the **Compact Block of Diamond** can not be placed down it can still easily be carried around in **stacks of 64** in any storage.  
 ### One Compact Block of Diamond is the equivalent to <ins>81 diamonds</ins>.
 
+<details open><summary>Dev Info:</summary>
+Compact Block of Diamond can be translated using the key <code>block.minecraft.diamond_block.compact</code>, fallback is "<code>Compact Block of Diamond</code>".
+<br><br>
+If you want to change the texture of the Compact Block of Diamond without also changing the normal Diamond Block, you can use <a href="https://github.com/Nobodyasidentity/Compact-Diamonds-Custom-Model-Template">Compact-Diamonds-Custom-Model-Template</a>.
+</details>
 
-## Dev Info:
-> Compact Block of Diamond can be translated using the key `block.minecraft.diamond_block.compact`, fallback is "`Compact Block of Diamond`".<br>
-> I'm currently working on on making translations for this datapack, I'd love some help.
+**I'm currently working on on making translations for this datapack, I'd love some help.**
