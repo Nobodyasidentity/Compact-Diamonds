@@ -1,0 +1,1 @@
+scoreboard players set placing_not_supported_warning compact_diamonds.config 1
