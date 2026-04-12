@@ -1,0 +1,34 @@
+name: Sync Lang Files to Resourcepack
+
+on:
+  push:
+    paths:
+      - 'assets/minecraft/lang/**'
+  workflow_dispatch:
+
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout datapack repo
+        uses: actions/checkout@v4
+
+      - name: Clone resourcepack repo
+        run: |
+          git clone https://x-access-token:${{ secrets.REPO_TOKEN }}@github.com/Nobodyasidentity/Compact-Diamonds-Translations.git resourcepack
+
+      - name: Copy lang files
+        run: |
+          mkdir -p resourcepack/assets/minecraft/lang
+          rm -rf resourcepack/assets/minecraft/lang/*
+          cp -r assets/minecraft/lang/* resourcepack/assets/minecraft/lang/
+
+      - name: Commit and push if there are changes
+        run: |
+          cd resourcepack
+          git config user.name "github-actions"
+          git config user.email "actions@github.com"
+          git add .
+          git diff --cached --quiet || git commit -m "Auto-sync lang files from datapack"
+          git push
