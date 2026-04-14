@@ -4,6 +4,6 @@ execute at @e[tag=compact_diamond_block,type=bat] align xyz run summon minecraft
 tp @e[tag=compact_diamond_block,type=bat] 0 -9999 0         
 kill @e[tag=compact_diamond_block,type=bat]
 # Breaking
-execute at @e[tag=compact_diamond_block,type=item_display] align xyz unless block ~ ~ ~ minecraft:crying_obsidian run kill @e[type=item,nbt={Item:{"id":"minecraft:glass"}},distance=..0.5]
+execute at @e[tag=compact_diamond_block,type=item_display] align xyz unless block ~ ~ ~ minecraft:crying_obsidian run kill @e[type=item,nbt={Item:{"id":"minecraft:crying_obsidian"}},distance=..0.7]
 execute at @e[tag=compact_diamond_block,type=item_display] align xyz unless block ~ ~ ~ minecraft:crying_obsidian run function compact_diamonds:compact_diamond_block/summon
 execute as @e[tag=compact_diamond_block,type=item_display] at @s align xyz unless block ~ ~ ~ minecraft:crying_obsidian run kill @s
