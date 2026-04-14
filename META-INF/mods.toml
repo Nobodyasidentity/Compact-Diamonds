@@ -3,5 +3,5 @@ loaderVersion = '[40,)'
 license = 'LicenseRef-Datapack'
 showAsResourcePack = false
 mods = [
-	{ modId = "compact_diamonds", version = "0.1.4", displayName = "Compact Diamonds", description = "No need to carry too many shulkers because you happen to be too rich. Just pack them together into a Compact Block of Diamond.", logoFile = "pack.png", authors = "Nobodyasidentity" }
+	{ modId = "compact_diamonds", version = "0.1.5", displayName = "Compact Diamonds", description = "No need to carry too many shulkers because you happen to be too rich. Just pack them together into a Compact Block of Diamond.", logoFile = "pack.png", authors = "Nobodyasidentity" }
 ]
