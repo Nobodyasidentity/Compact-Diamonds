@@ -3,7 +3,7 @@ _Does your server have a diamond-based economy?
 Is your server dealing with large transactions?  
 Are you tired of carrying so many diamonds?_  
 **Well you're in luck!**  
-![Crafting a Compact Block of Diamond](https://cdn.modrinth.com/data/ycBtoWql/images/2b34eca722d3be7c1cc103f5992abcf2c39ff753.png)
+<img src="https://cdn.modrinth.com/data/ycBtoWql/images/2b34eca722d3be7c1cc103f5992abcf2c39ff753.png" alt="Crafting a Compact Block of Diamond">
 <ins>**Compact Diamonds**</ins> is a simple yet very useful Data Pack that adds a new item called "Compact Block of Diamond", crafted with 9 Blocks of Diamond and easily uncrafted in the inventory crafting menu.  
   
 Tho the **Compact Block of Diamond** can not be placed down it can still easily be carried around in **stacks of 64** in any storage.  
