@@ -1,10 +1,10 @@
 {
   "schemaVersion": 1,
   "id": "compact_diamonds",
-  "version": "0.1.5",
+  "version": "1.0.0",
   "name": "Compact Diamonds",
   "description": "No need to carry too many shulkers because you happen to be too rich. Just pack them together into a Compact Block of Diamond.",
-  "license": "LicenseRef-Datapack",
+  "license": "ARR",
   "environment": "*",
   "depends": {
     "fabric-resource-loader-v0": "*"

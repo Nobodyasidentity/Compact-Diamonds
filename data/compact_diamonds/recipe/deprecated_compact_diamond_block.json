@@ -1,14 +1,11 @@
 {
-  "type": "minecraft:crafting_shaped",
+  "type": "minecraft:crafting_shapeless",
   "category": "building",
-  "pattern": [
-    "###",
-    "###",
-    "###"
+  "ingredients": [
+    [
+      "minecraft:test_instance_block"
+    ]
   ],
-  "key": {
-    "#": "minecraft:diamond_block"
-  },
   "result": {
     "id": "minecraft:bat_spawn_egg",
     "count": 1,

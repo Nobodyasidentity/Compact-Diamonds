@@ -22,20 +22,20 @@ Tho the **Compact Block of Diamond** can not be placed down it can still easily 
 8. If it still doesn't work then just search on the internet.
 
 ## Modded [Fabric / Quilt / Forge / NeoForge]
-1. Download the latest [release for modded](https://modrinth.com/datapack/compact-diamonds#download).
-2. Locate your 'mods' folder. Often located in `%appdata%\.minecraft\mods` or `~/Library/Application Support/minecraft/mods`.
-3. Put the Compact Diamonds `.jar` in the 'mods' folder.
+1. Download the latest [release for modded](https://modrinth.com/datapack/compact-diamonds?loader=neoforge#download).
+2. Locate your `mods` folder. Often located in `%appdata%\.minecraft\mods` or `~/Library/Application Support/minecraft/mods`.
+3. Put the Compact Diamonds `.jar` in the `mods` folder.
 4. If Minecraft is open, please restart it for Compact Diamonds to load.
-    > ### ⚠ Fabric / Quilt note:  
-    > **[<img src="https://avatars.githubusercontent.com/u/21025855" align="center" width=30>FabricAPI](https://modrinth.com/mod/fabric-api)** (or specifically [`fabric-resource-loader-v0`](https://maven.fabricmc.net/net/fabricmc/fabric-api/fabric-resource-loader-v0/)) is required for the `.jar` to load.
+    > ### <font color="orange">⚠ Fabric / Quilt note:</font>  
+    > **[<img alt="Fabric icon" src="https://avatars.githubusercontent.com/u/21025855" align="center" width=30>FabricAPI](https://modrinth.com/mod/fabric-api)** (or specifically [`fabric-resource-loader-v0`](https://maven.fabricmc.net/net/fabricmc/fabric-api/fabric-resource-loader-v0/)) is required for the `.jar` to load.
 
 <details open><summary>Dev Info:</summary>
 Compact Block of Diamond can be translated using the key <code>block.minecraft.diamond_block.compact</code>, fallback is "<code>Compact Block of Diamond</code>".
 <br><br>
-If you want to change the texture of the Compact Block of Diamond without also changing the normal Diamond Block, you can use <a href="https://github.com/Nobodyasidentity/Compact-Diamonds-Custom-Model-Template">Compact-Diamonds-Custom-Model-Template <img src="https://raw.githubusercontent.com/Nobodyasidentity/Compact-Diamonds-Custom-Model-Template/refs/heads/main/pack.png" width=50 align="center"></a>.
+If you want to change the texture of the Compact Block of Diamond without also changing the normal Diamond Block, you can use <a href="https://github.com/Nobodyasidentity/Compact-Diamonds-Custom-Model-Template">Compact-Diamonds-Custom-Model-Template <img alt="Compact Diamonds Custom Model Template" src="https://raw.githubusercontent.com/Nobodyasidentity/Compact-Diamonds-Custom-Model-Template/refs/heads/main/pack.png" width=50 align="center"></a>.
 <br><br>
 <b><a href="https://github.com/stars/Nobodyasidentity/lists/compact-diamonds">All repositories related to Compact Diamonds:</a></b><br>
-<a href="https://github.com/Nobodyasidentity/Compact-Diamonds"><img src="https://raw.githubusercontent.com/Nobodyasidentity/Compact-Diamonds/refs/heads/main/pack.png" width=80 align="center"></a> <a href="https://github.com/Nobodyasidentity/Compact-Diamonds-Custom-Model-Template"><img src="https://raw.githubusercontent.com/Nobodyasidentity/Compact-Diamonds-Custom-Model-Template/refs/heads/main/pack.png" width=80 align="center"></a> <a href="https://github.com/Nobodyasidentity/Compact-Diamonds-Translations"><img src="https://raw.githubusercontent.com/Nobodyasidentity/Compact-Diamonds-Translations/refs/heads/main/pack.png" width=80 align="center"></a>
+<a href="https://github.com/Nobodyasidentity/Compact-Diamonds"><img alt="Compact Diamonds" src="https://raw.githubusercontent.com/Nobodyasidentity/Compact-Diamonds/refs/heads/main/pack.png" width=80 align="center"></a> <a href="https://github.com/Nobodyasidentity/Compact-Diamonds-Custom-Model-Template"><img  alt="Compact Diamonds Custom Model Template" src="https://raw.githubusercontent.com/Nobodyasidentity/Compact-Diamonds-Custom-Model-Template/refs/heads/main/pack.png" width=80 align="center"></a> <a href="https://github.com/Nobodyasidentity/Compact-Diamonds-Translations"><img alt="Compact Diamonds Translations" src="https://raw.githubusercontent.com/Nobodyasidentity/Compact-Diamonds-Translations/refs/heads/main/pack.png" width=80 align="center"></a>
 </details>
 
 **I'm currently working on on making translations for this datapack, I'd love some help.**
