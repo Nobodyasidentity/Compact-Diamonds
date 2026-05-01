@@ -1,4 +1,5 @@
 <h1><font color="orange">⚠ Compact Diamonds v1.0+ has 100% changed how this datapack works, please place any compact diamonds in a crafting grid to convert them to the new item system! ⚠</font></h1>
+
 _Does your server have a diamond-based economy?  
 Is your server dealing with large transactions?  
 Are you tired of carrying so many diamonds?_  
