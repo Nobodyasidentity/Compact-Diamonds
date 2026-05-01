@@ -3,7 +3,7 @@ name: Sync Language Files to Resourcepack
 on:
   push:
     paths:
-      - 'assets/minecraft/lang/**'
+      - 'assets/compact_diamonds/lang/**'
   workflow_dispatch:
 
 jobs:
@@ -20,9 +20,9 @@ jobs:
 
       - name: Copy language files
         run: |
-          mkdir -p resourcepack/assets/minecraft/lang
-          rm -rf resourcepack/assets/minecraft/lang/*
-          cp -r assets/minecraft/lang/* resourcepack/assets/minecraft/lang/
+          mkdir -p resourcepack/assets/compact_diamonds/lang
+          rm -rf resourcepack/assets/compact_diamonds/lang/*
+          cp -r assets/compact_diamonds/lang/* resourcepack/assets/compact_diamonds/lang/
 
       - name: Commit and push if there are changes
         run: |

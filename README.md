@@ -1,3 +1,4 @@
+<h1><font color="orange">⚠ Compact Diamonds v1.0+ has 100% changed how this datapack works, please place any compact diamonds in a crafting grid to convert them to the new item system! ⚠</font></h1>
 _Does your server have a diamond-based economy?  
 Is your server dealing with large transactions?  
 Are you tired of carrying so many diamonds?_  
@@ -30,7 +31,7 @@ Tho the **Compact Block of Diamond** can not be placed down it can still easily 
     > **[<img alt="Fabric icon" src="https://avatars.githubusercontent.com/u/21025855" align="center" width=30>FabricAPI](https://modrinth.com/mod/fabric-api)** (or specifically [`fabric-resource-loader-v0`](https://maven.fabricmc.net/net/fabricmc/fabric-api/fabric-resource-loader-v0/)) is required for the `.jar` to load.
 
 <details open><summary>Dev Info:</summary>
-Compact Block of Diamond can be translated using the key <code>block.minecraft.diamond_block.compact</code>, fallback is "<code>Compact Block of Diamond</code>".
+Compact Block of Diamond can be translated using the key <code>block.compact_diamonds.compact_diamond_block</code>, fallback is "<code>Compact Block of Diamond</code>".
 <br><br>
 If you want to change the texture of the Compact Block of Diamond without also changing the normal Diamond Block, you can use <a href="https://github.com/Nobodyasidentity/Compact-Diamonds-Custom-Model-Template">Compact-Diamonds-Custom-Model-Template <img alt="Compact Diamonds Custom Model Template" src="https://raw.githubusercontent.com/Nobodyasidentity/Compact-Diamonds-Custom-Model-Template/refs/heads/main/pack.png" width=50 align="center"></a>.
 <br><br>
