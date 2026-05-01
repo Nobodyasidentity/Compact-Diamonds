@@ -9,7 +9,8 @@ Are you tired of carrying so many diamonds?_
 
 <ins>**Compact Diamonds**</ins> is a simple yet very useful Data Pack that adds a new item called "Compact Block of Diamond", crafted with 9 Blocks of Diamond and easily uncrafted in the inventory crafting menu.  
   
-Tho the **Compact Block of Diamond** can not be placed down it can still easily be carried around in **stacks of 64** in any storage.  
+~~Tho the **Compact Block of Diamond** can not be placed down it can still easily be carried around in **stacks of 64** in any storage.~~  
+In version **1.0.0**, **Compact Block of Diamond is now placeable!**
 ### One Compact Block of Diamond is the equivalent to <ins>81 diamonds</ins>.
 
 # How to install?
