@@ -1,5 +1,3 @@
-<h1><font color="orange">⚠ Compact Diamonds v1.0+ has 100% changed how this datapack works, please place any compact diamonds in a crafting grid to convert them to the new item system! ⚠</font></h1>
-
 _Does your server have a diamond-based economy?  
 Is your server dealing with large transactions?  
 Are you tired of carrying so many diamonds?_  
@@ -32,6 +30,13 @@ The **Compact Block of Diamond** can be carried in stacks of 64 or placed on the
 4. If Minecraft is open, please restart it for Compact Diamonds to load.
     > ### <font color="orange">⚠ Fabric / Quilt note:</font>  
     > **<a href="https://modrinth.com/mod/fabric-api" target="_blank"><img alt="Fabric icon" src="https://avatars.githubusercontent.com/u/21025855" align="center" width=30>FabricAPI</a>** (or specifically <a href="https://maven.fabricmc.net/net/fabricmc/fabric-api/fabric-resource-loader-v0/" target="_blank">`fabric-resource-loader-v0`</a>) is required for the `.jar` to load.
+
+## Plugin [Paper / Purpur]
+> <font color="red">⚠ Plugin support is very experimental</font>  
+1. Download the latest [release for plugin](https://modrinth.com/datapack/compact-diamonds?loader=paper#download).
+2. Locate your `plugins` folder.
+3. Put the Compact Diamonds `.jar` in the `plugins` folder.
+4. If Minecraft is open, please restart it for Compact Diamonds to load.
 
 <details open><summary>Dev Info:</summary>
 Compact Block of Diamond can be translated using the key <code>block.compact_diamonds.compact_diamond_block</code>, fallback is "<code>Compact Block of Diamond</code>".
