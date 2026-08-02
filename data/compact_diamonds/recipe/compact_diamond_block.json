@@ -15,7 +15,7 @@
     "components": {
       "minecraft:enchantment_glint_override": true,
       "minecraft:item_model": "minecraft:diamond_block",
-      "custom_model_data": {
+      "minecraft:custom_model_data": {
         "strings": ["compact_diamond_block"]
       },
       "minecraft:item_name": {

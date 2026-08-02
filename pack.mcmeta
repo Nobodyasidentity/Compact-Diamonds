@@ -1,14 +1,22 @@
 {
-    "pack":{
-        "pack_format": 88,
-		"supported_formats": {
-			"min_inclusive": 0,
-			"max_inclusive": 2147483647
-		},
+    "pack": {
+        "pack_format": 110,
+        "supported_formats": {
+            "min_inclusive": 0,
+            "max_inclusive": 2147483647
+        },
         "min_format": 0,
-		"max_format": 2147483647,
+        "max_format": 2147483647,
         "description": ["§bCompact Diamonds §7v§f1.0.0\n§c§k| §7By §4Nobodyasidentity §c§k|"]
+    },
+    "overlays": {
+        "entries": [
+            {
+                "directory": "25w02a",
+                "formats": [15, 110],
+                "min_format": 15,
+                "max_format": 110
+            }
+        ]
     }
-
 }
-
